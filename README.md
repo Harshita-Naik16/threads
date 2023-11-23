@@ -20,17 +20,18 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Overview
 
-To learn more about Next.js, take a look at the following resources:
+- This is one of my first major FullStack project where I'm trying to build threads app clone by myself.
+- I am really excited and the first step was to choose the stack.
+- I am following up with the docs of clerk and nextJs along with some youtube videos to get ideas.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## TechStack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- NextJs
+- ReactJs
+- TailwindCss
+- Clerk (for Auth)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- (These are the base tech stack that I have chosen) -->
+<!-- Will be adding more tools as I develop and get to know about tools. -->
